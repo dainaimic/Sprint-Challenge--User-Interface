@@ -348,6 +348,8 @@ p {
 
 .box1 {
     background:teal;
+    width: 12.5%;
+    height: 100px;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -356,16 +358,21 @@ p {
 }
 
 .box2 {
-    color: gold;
+    background: gold;
+    width: 12.5%;
+    height: 100px;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
-
+    
 .box3 {
-    color: cadetblue;
+    background: cadetblue;
+    width: 12.5%;
+    height: 100px;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -374,7 +381,9 @@ p {
 }
 
 .box4 {
-    color: coral;
+    background: coral;
+    width: 12.5%;
+    height: 100px;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -383,7 +392,9 @@ p {
 }
 
 .box5 {
-    color: crimson;
+    background: crimson;
+    width: 12.5%;
+    height: 100px;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -392,27 +403,58 @@ p {
 }
 
 .box6 {
-    color: forestgreen;
+    background: forestgreen;
+    width: 12.5%;
+    height: 100px;
     margin: 20px 2.5%;
     color: white;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .box7 {
-    color: darkorchid;
+    background: darkorchid;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .box8 {
-    color: hotpink;
+    background: hotpink;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .box9 {
-    color:indigo;
+    background:indigo;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .box10 {
-    color: dodgerblue;
+    background: dodgerblue;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .bottom-content {
