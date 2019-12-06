@@ -97,7 +97,84 @@ h1, h2, h3, h4, h5 {
 }
 
 .about5 {
+    position: relative;
+    left: 20px;
+}
 
+.p1 {
+    justify-content: column;
+    position: relative;
+    top: 35px;
+    right: 35px;
+
+}
+
+.hr1 {
+    position: relative;
+    top: 80px;
+}
+
+.img3 {
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+
+.learnb1 {
+    position: relative;
+    top: 200px;
+    left: 15px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    width: 125px;
+    height: 60px;
+	
+	
+}
+
+.img4 {
+    position: relative;
+    left: 420px;
+    bottom: 222px;
+}
+
+.strategy-sec {
+    display: flex;
+    width: 50%
+}
+
+.str5{
+    position: relative;
+    top: 130px;
+    left:15px;
+}
+
+.p2 {
+    position: relative;
+    top: 170px;
+    right: 57px;
+}
+
+
+
+.hhw {
+    display: flex;
+    width: 100%;
+}
+
+.hww5 {
+    position: relative;
+    left: 435px;
+    bottom: 190px;
+}
+
+.p3 {
+    position: relative;
+    left: 435px;
+    width: 300px;
+    bottom: 190px;
 }
 
 
