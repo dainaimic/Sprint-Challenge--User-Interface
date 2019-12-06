@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5 {
 .learnb1 {
     position: relative;
     top: 200px;
-    left: 15px;
+    left: 10px;
     text-align: center;
     border-radius: 10px;
     border: 1px solid black;
@@ -134,11 +134,6 @@ h1, h2, h3, h4, h5 {
 	
 }
 
-.img4 {
-    position: relative;
-    left: 420px;
-    bottom: 222px;
-}
 
 .strategy-sec {
     display: flex;
@@ -148,16 +143,20 @@ h1, h2, h3, h4, h5 {
 .str5{
     position: relative;
     top: 130px;
-    left:15px;
+    left:10px;
 }
 
 .p2 {
     position: relative;
     top: 170px;
-    right: 57px;
+    right: 60px;
 }
 
-
+.img4 {
+    position: relative;
+    left: 420px;
+    bottom: 283px;
+}
 
 .hhw {
     display: flex;
@@ -166,18 +165,85 @@ h1, h2, h3, h4, h5 {
 
 .hww5 {
     position: relative;
-    left: 435px;
-    bottom: 190px;
+    left: 420px;
+    bottom: 255px;
 }
 
 .p3 {
     position: relative;
-    left: 435px;
+    left: 420px;
     width: 300px;
-    bottom: 190px;
+    bottom: 248px;
 }
 
+.learnb2 {
+    position: relative;
+    bottom: 215px;
+    left: 420px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding:20px;
+    width: 125px;
+    height:60px;
 
+}
+
+.h3 {
+    position: relative;
+    right: 205px;
+    bottom: 180px; 
+}
+
+.h2 {
+    position: relative;
+    top: 236.3px;
+    left: 205px;
+}
+
+.img5 {
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+}
+
+div.img6 {
+    position: relative;
+    bottom: 515px;
+    left: 420px;
+}
+
+.pww {
+    display: flex;
+    width: 200%;
+
+}
+
+.pww5 {
+    position: relative;
+    bottom: 125px;
+    left: 10px;
+}
+
+.p4 {
+    position: relative;
+    width: 25%;
+    right: 117px;
+    bottom: 85px;
+}
+
+.learnb3 {
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding:20px;
+    width: 125px;
+    height:60px;
+
+}
 
 p {
     line-height: 1.4;
