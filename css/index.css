@@ -346,6 +346,75 @@ p {
     justify-content: center;
 }
 
+.box1 {
+    background:teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 {
+    color: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box3 {
+    color: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box4 {
+    color: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box5 {
+    color: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box6 {
+    color: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.box7 {
+    color: darkorchid;
+}
+
+.box8 {
+    color: hotpink;
+}
+
+.box9 {
+    color:indigo;
+}
+
+.box10 {
+    color: dodgerblue;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -360,11 +429,12 @@ p {
     padding-right: 0;
 }
 
+
+
 footer {
     width: 100%;
     background: black;
-    position: relative;
-    bottom: 300px;
+    position: relative
 }
 
 footer nav {
