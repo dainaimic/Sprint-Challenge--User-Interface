@@ -54,6 +54,8 @@ table {
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
+    position: relative;
+    top: 20px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -209,7 +211,7 @@ h1, h2, h3, h4, h5 {
 
 div.img6 {
     position: relative;
-    bottom: 515px;
+    bottom: 534px;
     left: 420px;
 }
 
@@ -221,7 +223,7 @@ div.img6 {
 
 .pww5 {
     position: relative;
-    bottom: 125px;
+    bottom: 120px;
     left: 10px;
 }
 
@@ -242,6 +244,55 @@ div.img6 {
     padding:20px;
     width: 125px;
     height:60px;
+
+}
+
+.coll {
+    display: flex;
+    width: 60%;
+}
+
+.coll5 {
+    position: relative;
+    bottom: 506px;
+    left: 420px;
+}
+
+.p5 {
+    position: relative;
+    bottom: 470px;
+    left: 310px;
+}
+
+.learnb4 {
+    position: relative;
+    bottom: 432px;
+    left: 420px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding:20px;
+    width: 125px;
+    height:60px;
+
+}
+
+.h4 {
+    position: relative;
+    right: 208px;
+}
+
+.h5 {
+    position: relative;
+    bottom: 383px;
+    left: 208px;
+
+}
+
+.lwt {
+    position: relative;
+    bottom: 325px;
+    left: 10px;
 
 }
 
@@ -312,6 +363,8 @@ p {
 footer {
     width: 100%;
     background: black;
+    position: relative;
+    bottom: 300px;
 }
 
 footer nav {
