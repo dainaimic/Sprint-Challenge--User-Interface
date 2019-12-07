@@ -54,8 +54,7 @@ table {
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
-    position: relative;
-    top: 20px;
+   
 }
 
 h1, h2, h3, h4, h5 {
@@ -64,9 +63,18 @@ h1, h2, h3, h4, h5 {
     font-family: 'Rubik', sans-serif;
 }
 
-.img1 {
+.mainb {
+    position: relative;
+    top: 50px;
+    bottom: 190
+}
+
+
+
+.img1{
     position: relative;
     left: 275px;
+    margin-bottom: 10px;
 }
 
 .nav1{
@@ -79,12 +87,12 @@ h1, h2, h3, h4, h5 {
     font-size: 15px;
     position: relative;
     left: 445px;
-    bottom: 18px;
+    bottom: 30px;
 }
 
 .img2 {
     position: relative;
-    top: 20px;
+    bottom: 5px;
     left: 275px;
 }
 
@@ -95,7 +103,7 @@ h1, h2, h3, h4, h5 {
 .about-sec {
     justify-content: row;
     position: relative;
-    top: 40px;
+    top: 50px;
 }
 
 .about5 {
@@ -113,18 +121,18 @@ h1, h2, h3, h4, h5 {
 
 .hr1 {
     position: relative;
-    top: 80px;
+    top: 120px;
 }
 
 .img3 {
     position: relative;
-    top: 100px;
+    top: 175px;
     left: 10px;
 }
 
 .learnb1 {
     position: relative;
-    top: 200px;
+    top: 258px;
     left: 10px;
     text-align: center;
     border-radius: 10px;
@@ -139,7 +147,9 @@ h1, h2, h3, h4, h5 {
 
 .strategy-sec {
     display: flex;
-    width: 50%
+    width: 50%;
+    position: relative;
+    top: 75px;
 }
 
 .str5{
@@ -157,12 +167,14 @@ h1, h2, h3, h4, h5 {
 .img4 {
     position: relative;
     left: 420px;
-    bottom: 283px;
+    bottom: 208px;
 }
 
-.hhw {
+.hww {
     display: flex;
-    width: 100%;
+    width: 100;
+    position: relative;
+    top: 75px;
 }
 
 .hww5 {
@@ -173,14 +185,14 @@ h1, h2, h3, h4, h5 {
 
 .p3 {
     position: relative;
-    left: 420px;
+    left: 310px;
     width: 300px;
-    bottom: 248px;
+    bottom: 215px;
 }
 
 .learnb2 {
     position: relative;
-    bottom: 215px;
+    bottom: 123px;
     left: 420px;
     text-align: center;
     border-radius: 10px;
@@ -194,30 +206,32 @@ h1, h2, h3, h4, h5 {
 .h3 {
     position: relative;
     right: 205px;
-    bottom: 180px; 
+    bottom: 120px; 
 }
 
 .h2 {
     position: relative;
-    top: 236.3px;
+    top: 262.5px;
     left: 205px;
 }
 
 .img5 {
     position: relative;
-    bottom: 150px;
+    bottom: 75px;
     left: 10px;
 }
 
 div.img6 {
     position: relative;
-    bottom: 534px;
+    bottom: 458px;
     left: 420px;
 }
 
 .pww {
     display: flex;
     width: 200%;
+    position: relative;
+    top: 90px;
 
 }
 
@@ -236,7 +250,7 @@ div.img6 {
 
 .learnb3 {
     position: relative;
-    bottom: 50px;
+    top: 32px;
     left: 10px;
     text-align: center;
     border-radius: 10px;
@@ -250,6 +264,8 @@ div.img6 {
 .coll {
     display: flex;
     width: 60%;
+    position: relative;
+    top: 90px;
 }
 
 .coll5 {
@@ -266,7 +282,7 @@ div.img6 {
 
 .learnb4 {
     position: relative;
-    bottom: 432px;
+    bottom: 355px;
     left: 420px;
     text-align: center;
     border-radius: 10px;
@@ -280,18 +296,19 @@ div.img6 {
 .h4 {
     position: relative;
     right: 208px;
+    top: 50px;
 }
 
 .h5 {
     position: relative;
-    bottom: 383px;
+    bottom: 333px;
     left: 208px;
 
 }
 
 .lwt {
     position: relative;
-    bottom: 325px;
+    bottom: 250px;
     left: 10px;
 
 }
@@ -476,7 +493,7 @@ p {
 footer {
     width: 100%;
     background: black;
-    position: relative
+  
 }
 
 footer nav {
