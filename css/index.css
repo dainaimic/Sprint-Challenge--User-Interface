@@ -54,12 +54,263 @@ table {
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
+   
 }
 
 h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
+}
+
+.mainb {
+    position: relative;
+    top: 50px;
+    bottom: 190
+}
+
+
+
+.img1{
+    position: relative;
+    left: 275px;
+    margin-bottom: 10px;
+}
+
+.nav1{
+    display: flex;
+}
+
+.nav1 {
+    justify-content: space-around;
+    width: 50%;
+    font-size: 15px;
+    position: relative;
+    left: 445px;
+    bottom: 30px;
+}
+
+.img2 {
+    position: relative;
+    bottom: 5px;
+    left: 275px;
+}
+
+.about-sec {
+    display: flex;
+}
+
+.about-sec {
+    justify-content: row;
+    position: relative;
+    top: 50px;
+}
+
+.about5 {
+    position: relative;
+    left: 20px;
+}
+
+.p1 {
+    justify-content: column;
+    position: relative;
+    top: 35px;
+    right: 35px;
+
+}
+
+.hrfirst {
+    position: relative;
+    top: 120px;
+}
+
+.img3 {
+    position: relative;
+    top: 175px;
+    left: 10px;
+}
+
+.learnb1 {
+    position: relative;
+    top: 258px;
+    left: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    width: 125px;
+    height: 60px;
+	
+	
+}
+
+
+.strategy-sec {
+    display: flex;
+    width: 50%;
+    position: relative;
+    top: 75px;
+}
+
+.str5{
+    position: relative;
+    top: 130px;
+    left:10px;
+}
+
+.p2 {
+    position: relative;
+    top: 170px;
+    right: 60px;
+}
+
+.img4 {
+    position: relative;
+    left: 420px;
+    bottom: 208px;
+}
+
+.hww {
+    display: flex;
+    width: 100;
+    position: relative;
+    top: 75px;
+}
+
+.hww5 {
+    position: relative;
+    left: 420px;
+    bottom: 255px;
+}
+
+.p3 {
+    position: relative;
+    left: 310px;
+    width: 300px;
+    bottom: 215px;
+}
+
+.learnb2 {
+    position: relative;
+    bottom: 123px;
+    left: 420px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding:20px;
+    width: 125px;
+    height:60px;
+
+}
+
+.h3 {
+    position: relative;
+    right: 205px;
+    bottom: 120px; 
+}
+
+.h2 {
+    position: relative;
+    top: 262.5px;
+    left: 205px;
+}
+
+.img5 {
+    position: relative;
+    bottom: 75px;
+    left: 10px;
+}
+
+div.img6 {
+    position: relative;
+    bottom: 458px;
+    left: 420px;
+}
+
+.pww {
+    display: flex;
+    width: 200%;
+    position: relative;
+    top: 90px;
+
+}
+
+.pww5 {
+    position: relative;
+    bottom: 120px;
+    left: 10px;
+}
+
+.p4 {
+    position: relative;
+    width: 25%;
+    right: 117px;
+    bottom: 85px;
+}
+
+.learnb3 {
+    position: relative;
+    top: 32px;
+    left: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding:20px;
+    width: 125px;
+    height:60px;
+
+}
+
+.coll {
+    display: flex;
+    width: 60%;
+    position: relative;
+    top: 90px;
+}
+
+.coll5 {
+    position: relative;
+    bottom: 506px;
+    left: 420px;
+}
+
+.p5 {
+    position: relative;
+    bottom: 470px;
+    left: 310px;
+}
+
+.learnb4 {
+    position: relative;
+    bottom: 355px;
+    left: 420px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding:20px;
+    width: 125px;
+    height:60px;
+
+}
+
+.h4 {
+    position: relative;
+    right: 208px;
+    top: 50px;
+}
+
+.h5 {
+    position: relative;
+    bottom: 333px;
+    left: 208px;
+
+}
+
+.lwt {
+    position: relative;
+    bottom: 250px;
+    left: 10px;
+
 }
 
 p {
@@ -112,6 +363,117 @@ p {
     justify-content: center;
 }
 
+.box1 {
+    background:teal;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 {
+    background: gold;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+    
+.box3 {
+    background: cadetblue;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box4 {
+    background: coral;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box5 {
+    background: crimson;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box6 {
+    background: forestgreen;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box7 {
+    background: darkorchid;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box8 {
+    background: hotpink;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box9 {
+    background:indigo;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box10 {
+    background: dodgerblue;
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -126,9 +488,12 @@ p {
     padding-right: 0;
 }
 
+
+
 footer {
     width: 100%;
     background: black;
+  
 }
 
 footer nav {
